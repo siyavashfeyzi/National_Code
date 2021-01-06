@@ -1,0 +1,13 @@
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\bin\Debug\netcoreapp3.1\Code_meli_01.exe
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\bin\Debug\netcoreapp3.1\Code_meli_01.deps.json
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\bin\Debug\netcoreapp3.1\Code_meli_01.runtimeconfig.json
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\bin\Debug\netcoreapp3.1\Code_meli_01.runtimeconfig.dev.json
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\bin\Debug\netcoreapp3.1\Code_meli_01.dll
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\bin\Debug\netcoreapp3.1\Code_meli_01.pdb
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\obj\Debug\netcoreapp3.1\Code_meli_01.csprojAssemblyReference.cache
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\obj\Debug\netcoreapp3.1\Code_meli_01.AssemblyInfoInputs.cache
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\obj\Debug\netcoreapp3.1\Code_meli_01.AssemblyInfo.cs
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\obj\Debug\netcoreapp3.1\Code_meli_01.csproj.CoreCompileInputs.cache
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\obj\Debug\netcoreapp3.1\Code_meli_01.dll
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\obj\Debug\netcoreapp3.1\Code_meli_01.pdb
+F:\Practice\C#\Code_meli\Code_meli_01\Code_meli_01\obj\Debug\netcoreapp3.1\Code_meli_01.genruntimeconfig.cache
