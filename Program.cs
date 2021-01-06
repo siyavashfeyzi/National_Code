@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Code_meli_01
+namespace NationalCode
 {
     class Program
     {
@@ -8,6 +8,7 @@ namespace Code_meli_01
         {
             try
             {
+                Console.WriteLine("Enter National Code: ");
                 string Code_meli = Console.ReadLine();
                 char[] chArray = Code_meli.ToCharArray();
                 int[] numArray = new int[chArray.Length];
